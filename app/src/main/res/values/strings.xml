@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">frcapp fix</string>
+    <string name="already_in_group">already in group</string>
+    <string name="friend_added">friend added!</string>
+    <string name="joined_group">joined group!</string>
+    <!-- login page-->
+    <string name="login_button_text">login</string>
+    <string name="forgot_password_button_text">forgot password?</string>
+    <string name="create_new_account_button_text">create new account</string>
+    <string name="enter_email_edit_text_hint">enter email</string>
+    <string name="enter_password_edit_text_hint">enter password</string>
+    <string name="incorrect_mail_or_password_textView">incorrect mail address or password! please double check or use forgot password</string>
+</resources>
